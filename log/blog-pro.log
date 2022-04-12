@@ -1,0 +1,2 @@
+2022-04-11 18:52:12.316  WARN 13912 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.wmz.blog]' package. Please check your configuration.
+2022-04-11 18:55:42.522  WARN 19108 --- [restartedMain] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.wmz.blog]' package. Please check your configuration.
